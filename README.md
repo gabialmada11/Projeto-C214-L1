@@ -20,9 +20,9 @@ $ npm start
 A aplicação rodará no endereço http://localhost:3000/ 
 
 ### :hammer_and_wrench: Ferramentas e Tecnologias utilizadas
-- [Node] (https://nodejs.org/en/)
-- [npm] (https://www.npmjs.com/)
-- [React] (https://reactjs.org/)
+- [Node](https://nodejs.org/en/)
+- [npm](https://www.npmjs.com/)
+- [React](https://reactjs.org/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
 
