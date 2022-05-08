@@ -31,4 +31,4 @@ A aplicação rodará no endereço http://localhost:3000/
 
 * **Gabriela Almada Paranhos de Melo** - [Gabriela Almada](https://github.com/gabialmada11)
 * **Vinicius de Oliveira Azevedo** - [Vinicius Oliveira](https://github.com/Vinicius-Azevedo)
-
+* **Daniel Jardim Nunes** - [Daniel Jardim](https://github.com/DanielJardiim)
