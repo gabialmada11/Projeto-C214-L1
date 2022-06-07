@@ -3,7 +3,7 @@
 ### :pushpin: Descrição
 <p>Este repositório contém o projeto do laboratório de C214, disciplina de Engenharia de Software, que consiste na criação de um calculadora usando React e Java Script.<p>
 
-### :books: Começandos
+### :books: Começando
 Para obter uma cópia do projeto a fim de operá-lo/testá-lo de sua máquina, clone o repositório em uma pasta na sua máquina:
 ```
 $ git clone https://github.com/gabialmada11/Projeto-C214-L1.git
@@ -30,5 +30,5 @@ A aplicação rodará no endereço http://localhost:3000/
 
 
 * **Gabriela Almada Paranhos de Melo** - [Gabriela Almada](https://github.com/gabialmada11)
-
-
+* **Vinicius de Oliveira Azevedo** - [Vinicius Oliveira](https://github.com/Vinicius-Azevedo)
+* **Daniel Jardim Nunes** - [Daniel Jardim](https://github.com/DanielJardiim)
