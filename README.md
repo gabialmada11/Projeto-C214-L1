@@ -2,6 +2,19 @@
 
 ### :pushpin: Descrição
 <p>Este repositório contém o projeto do laboratório de C214, disciplina de Engenharia de Software, que consiste na criação de um calculadora usando React e Java Script.<p>
+  
+### 💻 Funcionalidades
+#### Usuário:
+- Entra com os dados (Ex: números e operações) que deseja realizar. Por meio da aplicação que rodará no endereço localhost:3000
+
+#### Calculadora:
+- Vai ler os dados que o usuário entrou e realizar as devidas operções solicitadas
+
+#### Resultado:
+- Mostra na tela, por meio da aplicação que rodará no endereço localhost:3000, o resultado em função da operação e dos dados que o usuário informou no começo.
+
+### :books: Começando
+Para obter uma cópia do projeto a fim de operá-lo/testá-lo de sua máquina, clone o repositório em uma pasta na sua máquina:
 
 ### :books: Começando
 Para obter uma cópia do projeto a fim de operá-lo/testá-lo de sua máquina, clone o repositório em uma pasta na sua máquina:
