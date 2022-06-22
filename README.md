@@ -1,5 +1,11 @@
 <h1 align="center">Projeto C214 - L1</h1>
 
+<h1 align="center">Tela Da Calculadora</h1>
+<p align="center">
+<img src=cal.png/>
+
+</p>
+
 ### :pushpin: Descrição
 <p>Este repositório contém o projeto do laboratório de C214, disciplina de Engenharia de Software, que consiste na criação de um calculadora usando React e Java Script.<p>
   
