@@ -67,4 +67,56 @@ test('Verificação do elemento 1', () => {
   expect(elementoNumero1).toBeInTheDocument();
 });
 
+test('Verificação do elemento (', () => {
+  const { getByText } = render(<App />);
+  const elementoParenteseEsquerdo = screen.getByText('(');
+  expect(elementoParenteseEsquerdo).toBeInTheDocument();
+});
 
+test('Verificação do elemento )', () => {
+  const { getByText } = render(<App />);
+  const elementoParenteseDireito = screen.getByText(')');
+  expect(elementoParenteseDireito).toBeInTheDocument();
+});
+
+test('Verificação do elemento /', () => {
+  const { getByText } = render(<App />);
+  const elementoDivisao = screen.getByText('/');
+  expect(elementoDivisao).toBeInTheDocument();
+});
+
+test('Verificação do elemento *', () => {
+  const { getByText } = render(<App />);
+  const elementoMultiplicacao = screen.getByText(/ * /i);
+  expect(elementoMultiplicacao).toBeInTheDocument();
+});
+
+test('Verificação do elemento -', () => {
+  const { getByText } = render(<App />);
+  const elementoMenos = screen.getByText('-');
+  expect(elementoMenos).toBeInTheDocument();
+});
+
+test('Verificação do elemento +', () => {
+  const { getByText } = render(<App />);
+  const elementoMais = screen.getByText('+');
+  expect(elementoMais).toBeInTheDocument();
+});
+
+test('Verificação do elemento .', () => {
+  const { getByText } = render(<App />);
+  const elementoPonto = screen.getByText('.');
+  expect(elementoPonto).toBeInTheDocument();
+});
+
+test('Verificação do botão C', () => {
+  const { getByText } = render(<App />);
+  const elementoC = screen.getByText('C');
+  expect(elementoC).toBeInTheDocument();
+});
+
+test('Verificação do elemento =', () => {
+  const { getByText } = render(<App />);
+  const elementoIgual = screen.getByText('=');
+  expect(elementoIgual).toBeInTheDocument();
+});
