@@ -2,7 +2,7 @@
 
 <h1 align="center">Tela Da Calculadora</h1>
 <p align="center">
-<img src=cal.png/>
+<img src=cal.PNG/>
 
 </p>
 
