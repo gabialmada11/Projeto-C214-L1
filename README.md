@@ -9,13 +9,19 @@ Para obter uma cópia do projeto a fim de operá-lo/testá-lo de sua máquina, c
 $ git clone https://github.com/gabialmada11/Projeto-C214-L1.git
 ```
 
-Agora que você clonou o projeto para o seu computador, será necessário instalar todas as dependências para a aplicação rodar diretamente no localhost. Para isso, digite o comando abaixo e espere a instalação terminar:
+Agora que você clonou o projeto para o seu computador, será necessário instalar todas as dependências para a aplicação rodar diretamente no localhost. Primeiro vamos abrir a pasta deste projeto no Visual Studio Code e dentro desta pasta vamos digitar o comando abaixo e esperar a instalação das dependências terminar:
 ```
 $ npm install
 ```
+
 Com a aplicação clonada e todas as dependências instaladas você pode executar o comando abaixo para iniciar a aplicação:
 ```
 $ npm start
+```
+
+Com a aplicação clonada e todas as dependências instaladas você pode executar o comando abaixo para fazer o teste da aplicação:
+```
+$ npm test
 ```
 A aplicação rodará no endereço http://localhost:3000/ 
 
